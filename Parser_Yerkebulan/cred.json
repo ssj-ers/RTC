@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ordinal-skyline-373810",
+  "private_key_id": "8b7d0ac747b5d4d8970f0c09dd629052148260b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCraxSroIStGyXl\nRBLmALCM5v1qjmfuW7S8Kqp43f236VKeetprdDU7RQb0YUtRv5oM/jInabPwgCEN\n/1YAv7pnVWAuGwDCBcTywA/Di2wJ7REr9RrVxA5pgi1XshSqyO1k03OzA+GwDDVa\nk9E+wpw+PAs6K0LpsniEUX+EGU8JM4rWhC3E6yRl1VXXNBeZA4TqQfIS1v3Qm+MJ\nNqlaDaP/RSyPVT+R9hso23UMNF3DrqFxnlsDS3rk7vOczLWmr8+Z/UoXZcj+OdFj\nWxNvIKaXoQF0b7zJXqF8lUJRGP6XWhcAyJl8Jskd0OeXG3sxMcT0hgJRAq2V13jk\nKGWFAN6fAgMBAAECggEAAaQrVP9a9dtaMAlIUwpzpk255HDLnvUi1GBmNHUPrlie\nEWVkvP2mWtRs3h8mXPiELZarfUQeVHGtn1gwBx7O1plzK83XYoQyoA5luD4YATpT\nXUPiB2TyrGDyNTI/z2jQGRSLOY4SdaCQTDc5HCw52cCybNKoN9udGss6+NVTM+fV\n42Czsy3GdZvHSBQeliliiT7mhfcM31oN1rApJ7jaRDsvrta28QjrdvGo8t+LqovG\nx3mStTGyGtJclCVlpUfs/5WXuvv8cOWml5D9viqJpTmEimV71wSgcLchgAnl8NLl\nobJCr4A02qjqw/j+UadGKRK1XPS+DejMrPQA+s/XTQKBgQDufD21MXaUFaFhEaZ0\njbpoXCxAcAVDwAsHjEJIoi8Qh5EX9q8hhOhtSwslW9mOEQSHt/NjokHud0pvg4bP\ntAp3CddbOJpkPdpAPcGW3q76muJ+OZGhji2ebeM15K7TgDCWbf7ClT1/brJOCcBV\n/6JoD+3M0b8EIiThxI6tCJCIFQKBgQC4AenUnxex0Glx30uuwq3MijwjGyPLcXz+\nRURnSySMFwjE1AzPnoz3Jv5AYGUyy/tbgnLL0kmufIwUG7sR746W+mL/+TlfFmrK\nYLiR6xo9UiWezYWvUqnJmSvxba4aeikcyYALoJSxkQXyvPuP0T3YXZxQj1YEKbYF\n/NmYVPBk4wKBgBCY4u6GR7tcmgOYZ946sttqdsXxRdyGM/5Ne5t0dhQPa0CgsWWC\ny243x8nMz6I8evU7DxxDAZWoBa0nGS3BWO0Z6Tv2/3+0ckkAQ0XNr53PQ64HMaRt\nsa0R9rscdDJR/I+rjgxauJHy0UPvF8ykYtgdK66SdlnCSpDPziIqs2xVAoGAEtHn\nR57p/n7Rehsbk4lH22a8Fd8dvx4haaROBb6Sw11LwU3q7YVK57BuSslRMGvajpZ+\nBUjBzn3gmeHoNUJqNBjx7TphWs9hJsfTuODx8xmmzWI57R+oS/1FmFDegMjD0bTu\nSsIm0y6BDD22ARSmna2dYkP2yUA25M/itYjieX8CgYEAgkQV5k54M4MOft44r6F2\nKun+iG6yKbK62T5OQOKxb60sffgwhz1oXkLQz+km8OpIr63jLO9627JddGoADNfV\nmYGEdlxslK/8RU7oJkOVQG6RHpvUcBTTlFwAdXywuKge8JG6X5xgR3Ae95ci+qOn\nfG2xrkXDRyS3qNGUsQCam/Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "alfacrm@ordinal-skyline-373810.iam.gserviceaccount.com",
+  "client_id": "108398378647276957234",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alfacrm%40ordinal-skyline-373810.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
